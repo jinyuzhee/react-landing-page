@@ -37,14 +37,14 @@ const Footer = () => {
             </Box>
           </Box>
           <Flex>
-            <IconButton
+           <IconButton
               as="a"
               href="https://yuzhe-jin.vercel.app/"
-              aria-label="Link"
+              aria-label="Facebook"
               icon={<FaLink />}
               variant="ghost"
               color="white"
-              _hover={{bg: 'white', color: 'gray.800' }}
+              _hover={{ bg: 'white', color: 'gray.800' }}
               _active={{ bg: 'white', color: 'gray.800' }}
               mr={4}
             />
