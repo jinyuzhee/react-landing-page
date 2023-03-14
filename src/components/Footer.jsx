@@ -39,7 +39,7 @@ const Footer = () => {
           <Flex>
             <IconButton
               as="a"
-              href="https://www.linkedin.com/in/yuzhe-j-6777a5121/"
+              href="https://jinyuzhe.wixsite.com/portfolio/"
               aria-label="Link"
               icon={<FaLink />}
               variant="ghost"
