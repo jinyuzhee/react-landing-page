@@ -39,19 +39,19 @@ const Footer = () => {
           <Flex>
             <IconButton
               as="a"
-              href="#"
-              aria-label="Facebook"
+              href="https://www.linkedin.com/in/yuzhe-j-6777a5121/"
+              aria-label="Link"
               icon={<FaLink />}
               variant="ghost"
               color="white"
-              _hover={{ bg: 'white', color: 'gray.800' }}
+              _hover={{ink bg: 'white', color: 'gray.800' }}
               _active={{ bg: 'white', color: 'gray.800' }}
               mr={4}
             />
             <IconButton
               as="a"
-              href="#"
-              aria-label="Twitter"
+              href="https://github.com/jinyuzhee"
+              aria-label="Github"
               icon={<FaGithub />}
               variant="ghost"
               color="white"
@@ -61,7 +61,7 @@ const Footer = () => {
             />
             <IconButton
               as="a"
-              href="#"
+              href="https://www.linkedin.com/in/yuzhe-j-6777a5121/"
               aria-label="LinkedIn"
               icon={<FaLinkedin />}
               variant="ghost"
