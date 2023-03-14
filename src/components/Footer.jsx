@@ -44,7 +44,7 @@ const Footer = () => {
               icon={<FaLink />}
               variant="ghost"
               color="white"
-              _hover={{ink bg: 'white', color: 'gray.800' }}
+              _hover={{bg: 'white', color: 'gray.800' }}
               _active={{ bg: 'white', color: 'gray.800' }}
               mr={4}
             />
